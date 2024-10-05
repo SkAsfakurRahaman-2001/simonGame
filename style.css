@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-color: burlywood;
+}
+.btn{
+    height: 200px;
+    width: 200px;
+    border: 10px solid aqua;
+    border-radius: 20%;
+    margin: 2.5rem;
+    color: azure;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+.red{
+    background-color: rgb(170, 106, 117);
+}
+
+.green{
+    background-color: rgb(15, 122, 122);
+}
+
+.yellow{
+    background-color:  rgba(255, 255, 0, 0.475);
+}
+
+.blue{
+    background-color: rgb(115, 115, 204);
+}
+
+.flash{
+    background-color: rgb(199, 199, 215);
+}
